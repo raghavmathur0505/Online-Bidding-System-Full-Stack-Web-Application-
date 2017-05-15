@@ -1,4 +1,5 @@
-#An Online Service Bidding Platform
+# An Online Service Bidding Platform 
+
 Master's Course Work at The University of Texas at Dallas
 
 Technologies Used:
